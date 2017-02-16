@@ -14,6 +14,10 @@ public class LA3SCM {
     {
         System.out.println("la3scm.LA3SCM.Feature_B()");
     }
+    public static void Feature_A()
+    {
+        System.out.println("la3scm.LA3SCM.Feature_A()");
+    }
     /**
      * @param args the command line arguments
      */
