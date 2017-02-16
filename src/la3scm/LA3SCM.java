@@ -10,7 +10,10 @@ package la3scm;
  * @author b00058287
  */
 public class LA3SCM {
-
+    public static void Feature_B()
+    {
+        System.out.println("la3scm.LA3SCM.Feature_B()");
+    }
     /**
      * @param args the command line arguments
      */
